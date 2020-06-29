@@ -1,5 +1,5 @@
 # Tableau de bord - Devises
-Tableau de bord pour afficher l'évolution du cours de devises.
+Tableau de bord pour afficher l'évolution du cours de devises en temps réel.
 
 Réalisé avec le framework django 
 
